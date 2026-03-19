@@ -6,17 +6,6 @@ this is where i keep the experiments.
 
 &nbsp;
 
-**work projects**
-
-| name | what it is |
-|------|-----------|
-| Quill — MLR Review Platform | AI-driven platform for Medical Legal Regulatory reviews in pharmaceuticals at ZS Associates |
-| Crowd Management System | OpenPose + BLE beacon localization achieving 90% reduction in overcrowding alert response time |
-| Airport Security Detection | YOLOv3-based object detection for threat identification at Cisco Center of Excellence |
-| SDR Channel Estimation | Software-defined radio channel estimation using LabVIEW and USRP 2920, improving SNR by 9 dB |
-
-&nbsp;
-
 **side projects**
 
 | name | what it is | stack |
@@ -32,6 +21,17 @@ this is where i keep the experiments.
 | [rag-project](https://github.com/03shraddha/rag-project) | RAG system built from scratch | Python |
 | [my-handwriting-font](https://github.com/03shraddha/my-handwriting-font) | turned my handwriting into a font | — |
 | [personal-website](https://github.com/03shraddha/personal-website) | this very website · [shraddha-kulkarni.com](https://shraddha-kulkarni.com) | JavaScript |
+
+&nbsp;
+
+**work projects**
+
+| name | what it is |
+|------|-----------|
+| Quill — MLR Review Platform | AI-driven platform for Medical Legal Regulatory reviews in pharmaceuticals at ZS Associates |
+| Crowd Management System | OpenPose + BLE beacon localization achieving 90% reduction in overcrowding alert response time |
+| Airport Security Detection | YOLOv3-based object detection for threat identification at Cisco Center of Excellence |
+| SDR Channel Estimation | Software-defined radio channel estimation using LabVIEW and USRP 2920, improving SNR by 9 dB |
 
 &nbsp;
 
