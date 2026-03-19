@@ -1,6 +1,6 @@
 ### hi, i'm shraddha
 
-i work in analytics and product. i like building things that are useful, occasionally weird, and sometimes both.
+i work in product. i like building things that are useful, occasionally weird, and sometimes both.
 
 this is where i keep the experiments.
 
