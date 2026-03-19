@@ -6,7 +6,18 @@ this is where i keep the experiments.
 
 &nbsp;
 
-**projects**
+**work projects**
+
+| name | what it is |
+|------|-----------|
+| Quill — MLR Review Platform | AI-driven platform for Medical Legal Regulatory reviews in pharmaceuticals at ZS Associates |
+| Crowd Management System | OpenPose + BLE beacon localization achieving 90% reduction in overcrowding alert response time |
+| Airport Security Detection | YOLOv3-based object detection for threat identification at Cisco Center of Excellence |
+| SDR Channel Estimation | Software-defined radio channel estimation using LabVIEW and USRP 2920, improving SNR by 9 dB |
+
+&nbsp;
+
+**side projects**
 
 | name | what it is | stack |
 |------|-----------|-------|
