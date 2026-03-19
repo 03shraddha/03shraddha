@@ -1,3 +1,7 @@
+find me at [shraddha-kulkarni.com](https://shraddha-kulkarni.com)
+
+&nbsp;
+
 ### hi, i'm shraddha
 
 i work in product. i like building things that are useful, occasionally weird, and sometimes both.
@@ -28,11 +32,7 @@ this is where i keep the experiments.
 
 | name | what it is |
 |------|-----------|
-| Quill — MLR Review Platform | AI-driven platform for Medical Legal Regulatory reviews in pharmaceuticals at ZS Associates |
-| Crowd Management System | OpenPose + BLE beacon localization achieving 90% reduction in overcrowding alert response time |
-| Airport Security Detection | YOLOv3-based object detection for threat identification at Cisco Center of Excellence |
-| SDR Channel Estimation | Software-defined radio channel estimation using LabVIEW and USRP 2920, improving SNR by 9 dB |
-
-&nbsp;
-
-find me at [shraddha-kulkarni.com](https://shraddha-kulkarni.com)
+| Quill — MLR Review Platform | AI-driven platform for medical legal regulatory reviews in pharmaceuticals at ZS Associates |
+| Crowd Management System | openpose + BLE beacon localization achieving 90% reduction in overcrowding alert response time |
+| Airport Security Detection | yolov3-based object detection for threat identification at Cisco Center of Excellence |
+| SDR Channel Estimation | software-defined radio channel estimation using LabVIEW and USRP 2920, improving SNR by 9 dB |
