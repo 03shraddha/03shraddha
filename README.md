@@ -1,8 +1,6 @@
-find me at [shraddha-kulkarni.com](https://shraddha-kulkarni.com)
-
-&nbsp;
-
 ### hi, i'm shraddha
+
+[shraddha-kulkarni.com](https://shraddha-kulkarni.com)
 
 i work in product. i like building things that are useful, occasionally weird, and sometimes both.
 
