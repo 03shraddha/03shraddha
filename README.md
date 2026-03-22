@@ -6,9 +6,7 @@ i work in product. i like building things that are useful, occasionally weird, a
 
 this is where i keep the experiments.
 
-&nbsp;
-
-**side projects**
+**things i've built**
 
 | name | what it is | stack |
 |------|-----------|-------|
