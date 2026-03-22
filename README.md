@@ -15,15 +15,15 @@ this is where i keep the experiments.
 | name | what it is | stack |
 |------|-----------|-------|
 | [claude-md-file-and-security-md-file-](https://github.com/03shraddha/claude-md-file-and-security-md-file-) | CLAUDE.md + Security.md templates for working with Claude Code | — |
-| [read-aloud-chrome](https://github.com/03shraddha/read-aloud-chrome) | Chrome extension that reads web pages aloud | JavaScript |
-| [blr-metro](https://github.com/03shraddha/blr-metro) | explore Bengaluru metro ridership patterns across every hour of the day | JavaScript |
-| [indian-duolingo](https://github.com/03shraddha/indian-duolingo) | Duolingo for Indian languages | TypeScript |
-| [website-blocker](https://github.com/03shraddha/website-blocker) | Chrome extension to block distracting websites | HTML/JS |
-| [newspaper-ocr-sarvam](https://github.com/03shraddha/newspaper-ocr-sarvam) | OCR for Indian newspapers using Sarvam AI APIs · [live](https://samachar-scan.vercel.app) | TypeScript |
-| [civic-dashboard](https://github.com/03shraddha/civic-dashboard) | civic data dashboard | TypeScript |
-| [now-reading](https://github.com/03shraddha/now-reading) | track what i'm reading | TypeScript |
-| [rag-project](https://github.com/03shraddha/rag-project) | RAG system built from scratch | Python |
-| [my-handwriting-font](https://github.com/03shraddha/my-handwriting-font) | turned my handwriting into a font | — |
+| [read-aloud-chrome](https://github.com/03shraddha/read-aloud-chrome) | free Chrome extension that reads articles aloud using your browser's built-in text-to-speech | JavaScript |
+| [blr-metro](https://github.com/03shraddha/blr-metro) | explore Bengaluru metro ridership patterns across every hour of the day · [live](https://03shraddha.github.io/blr-metro/) | JavaScript |
+| [indian-duolingo](https://github.com/03shraddha/indian-duolingo) | Duolingo for Indian languages — Hindi, Kannada, Tamil, Telugu, Bengali, Marathi · [live](https://indian-duolingo-1.onrender.com/) | TypeScript |
+| [website-blocker](https://github.com/03shraddha/website-blocker) | to unblock a site, you must type what you should be doing instead (minimum 6 words) | HTML/JS |
+| [newspaper-ocr-sarvam](https://github.com/03shraddha/newspaper-ocr-sarvam) | chat directly with newspapers in 22 Indian languages · [live](https://samachar-scan.vercel.app) | TypeScript |
+| [civic-dashboard](https://github.com/03shraddha/civic-dashboard) | interactive map of BBMP complaint data — how many were made, resolved, and still pending · [live](https://civic-dashboard-kappa.vercel.app/) | TypeScript |
+| [now-reading](https://github.com/03shraddha/now-reading) | a map of links people are actually reading worldwide · [live](https://reading-links-fed4e.web.app/) | TypeScript |
+| [rag-project](https://github.com/03shraddha/rag-project) | RAG implementation using Recursive Chunking, MiniLM Embeddings, and FAISS | Python |
+| [my-handwriting-font](https://github.com/03shraddha/my-handwriting-font) | turned my handwriting into a font — download it or follow the instructions to make your own | — |
 | [personal-website](https://github.com/03shraddha/personal-website) | this very website · [shraddha-kulkarni.com](https://shraddha-kulkarni.com) | JavaScript |
 
 &nbsp;
