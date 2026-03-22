@@ -15,11 +15,11 @@ this is where i keep the experiments.
 | name | what it is | stack |
 |------|-----------|-------|
 | [claude-md-file-and-security-md-file-](https://github.com/03shraddha/claude-md-file-and-security-md-file-) | CLAUDE.md + Security.md templates for working with Claude Code | — |
-| [read-aloud-chrome](https://github.com/03shraddha/read-aloud-chrome) | chrome extension that reads web pages aloud | JavaScript |
-| [blr-metro](https://github.com/03shraddha/blr-metro) | bangalore metro tool | JavaScript |
-| [indian-duolingo](https://github.com/03shraddha/indian-duolingo) | language learning app for indian languages | TypeScript |
-| [website-blocker](https://github.com/03shraddha/website-blocker) | chrome extension to block distracting websites | HTML/JS |
-| [newspaper-ocr-sarvam](https://github.com/03shraddha/newspaper-ocr-sarvam) | OCR for indian newspapers using Sarvam AI · [live](https://samachar-scan.vercel.app) | TypeScript |
+| [read-aloud-chrome](https://github.com/03shraddha/read-aloud-chrome) | Chrome extension that reads web pages aloud | JavaScript |
+| [blr-metro](https://github.com/03shraddha/blr-metro) | explore Bengaluru metro ridership patterns across every hour of the day | JavaScript |
+| [indian-duolingo](https://github.com/03shraddha/indian-duolingo) | Duolingo for Indian languages | TypeScript |
+| [website-blocker](https://github.com/03shraddha/website-blocker) | Chrome extension to block distracting websites | HTML/JS |
+| [newspaper-ocr-sarvam](https://github.com/03shraddha/newspaper-ocr-sarvam) | OCR for Indian newspapers using Sarvam AI APIs · [live](https://samachar-scan.vercel.app) | TypeScript |
 | [civic-dashboard](https://github.com/03shraddha/civic-dashboard) | civic data dashboard | TypeScript |
 | [now-reading](https://github.com/03shraddha/now-reading) | track what i'm reading | TypeScript |
 | [rag-project](https://github.com/03shraddha/rag-project) | RAG system built from scratch | Python |
@@ -27,12 +27,3 @@ this is where i keep the experiments.
 | [personal-website](https://github.com/03shraddha/personal-website) | this very website · [shraddha-kulkarni.com](https://shraddha-kulkarni.com) | JavaScript |
 
 &nbsp;
-
-**work projects**
-
-| name | what it is |
-|------|-----------|
-| Quill — MLR Review Platform | AI-driven platform for medical legal regulatory reviews in pharmaceuticals at ZS Associates |
-| Crowd Management System | openpose + BLE beacon localization achieving 90% reduction in overcrowding alert response time |
-| Airport Security Detection | yolov3-based object detection for threat identification at Cisco Center of Excellence |
-| SDR Channel Estimation | software-defined radio channel estimation using LabVIEW and USRP 2920, improving SNR by 9 dB |
