@@ -21,6 +21,8 @@ this is where i keep the experiments.
 | [rag-project](https://github.com/03shraddha/rag-project) | RAG implementation using Recursive Chunking, MiniLM Embeddings, and FAISS | Python |
 | [battery-monitor](https://github.com/03shraddha/battery-monitor) | Windows tray app that screams at you (full-screen red overlay + beeps) when your battery is low | Python |
 | [my-handwriting-font](https://github.com/03shraddha/my-handwriting-font) | turned my handwriting into a font — download it or follow the instructions to make your own | — |
+| [battery-monitor](https://github.com/03shraddha/battery-monitor) | Windows tray app that screams at you (full-screen red overlay + beeps) when your battery is low | Python |
+| [pm-skills](https://github.com/03shraddha/pm-skills) | claude code skills i use day-to-day as a product manager | — |
 | [personal-website](https://github.com/03shraddha/personal-website) | this very website · [shraddha-kulkarni.com](https://shraddha-kulkarni.com) | JavaScript |
 
 &nbsp;
