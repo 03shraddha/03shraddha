@@ -19,6 +19,7 @@ this is where i keep the experiments.
 | [civic-dashboard](https://github.com/03shraddha/civic-dashboard) | interactive map of BBMP complaint data — how many were made, resolved, and still pending · [live](https://civic-dashboard-kappa.vercel.app/) | TypeScript |
 | [now-reading](https://github.com/03shraddha/now-reading) | a map of links people are actually reading worldwide · [live](https://reading-links-fed4e.web.app/) | TypeScript |
 | [rag-project](https://github.com/03shraddha/rag-project) | RAG implementation using Recursive Chunking, MiniLM Embeddings, and FAISS | Python |
+| [battery-monitor](https://github.com/03shraddha/battery-monitor) | Windows tray app that screams at you (full-screen red overlay + beeps) when your battery is low | Python |
 | [my-handwriting-font](https://github.com/03shraddha/my-handwriting-font) | turned my handwriting into a font — download it or follow the instructions to make your own | — |
 | [personal-website](https://github.com/03shraddha/personal-website) | this very website · [shraddha-kulkarni.com](https://shraddha-kulkarni.com) | JavaScript |
 
