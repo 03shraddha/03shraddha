@@ -23,5 +23,6 @@ this is where i keep the experiments.
 | [my-handwriting-font](https://github.com/03shraddha/my-handwriting-font) | turned my handwriting into a font — download it or follow the instructions to make your own | — |
 | [pm-skills](https://github.com/03shraddha/pm-skills) | claude code skills built for pms — competitive analysis, product discovery, and more | — |
 | [personal-website](https://github.com/03shraddha/personal-website) | this very website · [shraddha-kulkarni.com](https://shraddha-kulkarni.com) | JavaScript |
+| [resume-screener](https://github.com/03shraddha/resume-screener) | two-pass AI pipeline that screens a batch of resumes, ranks candidates comparatively, and exports a colour-coded Excel report | Python |
 
 &nbsp;
