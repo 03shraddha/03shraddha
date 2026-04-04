@@ -10,7 +10,7 @@ this is where i keep the experiments.
 
 | name | what it is | stack |
 |------|-----------|-------|
-| [indian-duolingo](https://github.com/03shraddha/indian-duolingo) | Duolingo only supports one Indian language — so I built one for six · [live](https://indian-duolingo-1.onrender.com/) | TypeScript |
+| [indian-duolingo](https://github.com/03shraddha/indian-duolingo) | duolingo only supports one Indian language — so I built one for six · [live](https://indian-duolingo-1.onrender.com/) | TypeScript |
 | [civic-dashboard](https://github.com/03shraddha/civic-dashboard) | interactive map of BBMP complaint data — how many were made, resolved, and still pending · [live](https://civic-dashboard-kappa.vercel.app/) | TypeScript |
 | [blr-metro](https://github.com/03shraddha/blr-metro) | explore Bengaluru metro ridership patterns across every hour of the day · [live](https://03shraddha.github.io/blr-metro/) | JavaScript |
 | [now-reading](https://github.com/03shraddha/now-reading) | a map of links people are actually reading worldwide · [live](https://reading-links-fed4e.web.app/) | TypeScript |
