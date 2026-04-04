@@ -16,7 +16,7 @@ this is where i keep the experiments.
 | [now-reading](https://github.com/03shraddha/now-reading) | a map of links people are actually reading worldwide · [live](https://reading-links-fed4e.web.app/) | TypeScript |
 | [newspaper-ocr-sarvam](https://github.com/03shraddha/newspaper-ocr-sarvam) | chat directly with newspapers in 22 Indian languages · [live](https://samachar-scan.vercel.app) | TypeScript |
 | [my-handwriting-font](https://github.com/03shraddha/my-handwriting-font) | turned my handwriting into a font — download it or follow the instructions to make your own | — |
-| [website-blocker](https://github.com/03shraddha/website-blocker) | to unblock a site, you must type what you should be doing instead (minimum 6 words) | HTML/JS |
+| [website-blocker](https://github.com/03shraddha/website-blocker) | blocks distracting sites — to unblock, you must type what you should be doing instead (minimum 6 words). no shortcuts. | HTML/JS |
 | [resource-vs-gdp](https://github.com/03shraddha/resource-vs-gdp) | how resource extraction shapes GDP/capita over 60 years — 28 countries, interactive chart · [live](https://03shraddha.github.io/resource-vs-gdp/) | JavaScript |
 | [read-aloud-chrome](https://github.com/03shraddha/read-aloud-chrome) | free Chrome extension that reads articles aloud using your browser's built-in text-to-speech | JavaScript |
 | [rag-project](https://github.com/03shraddha/rag-project) | RAG implementation using Recursive Chunking, MiniLM Embeddings, and FAISS | Python |
