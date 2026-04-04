@@ -21,10 +21,10 @@ this is where i keep the experiments.
 | [read-aloud-chrome](https://github.com/03shraddha/read-aloud-chrome) | free Chrome extension that reads articles aloud using your browser's built-in text-to-speech | JavaScript |
 | [rag-project](https://github.com/03shraddha/rag-project) | RAG implementation using Recursive Chunking, MiniLM Embeddings, and FAISS | Python |
 | [yt-short](https://github.com/03shraddha/yt-short) | ai pipeline that generates youtube shorts — script, voiceover, b-roll, captions, and upload from a single news prompt | Python |
-| [claude-md-file-and-security-md-file-](https://github.com/03shraddha/claude-md-file-and-security-md-file-) | CLAUDE.md + Security.md templates for working with Claude Code | — |
 | [pm-skills](https://github.com/03shraddha/pm-skills) | claude code skills built for pms — competitive analysis, product discovery, and more | — |
 | [personal-website](https://github.com/03shraddha/personal-website) | this very website · [shraddha-kulkarni.com](https://shraddha-kulkarni.com) | JavaScript |
 | [resume-screener](https://github.com/03shraddha/resume-screener) | ranks candidates comparatively, generates tailored interview questions for each, and exports a colour-coded excel report | Python |
 | [battery-monitor](https://github.com/03shraddha/battery-monitor) | Windows tray app that screams at you (full-screen red overlay + beeps) when your battery is low | Python |
+| [claude-md-file-and-security-md-file-](https://github.com/03shraddha/claude-md-file-and-security-md-file-) | CLAUDE.md + Security.md templates for working with Claude Code | — |
 
 &nbsp;
