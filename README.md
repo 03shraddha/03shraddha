@@ -2,9 +2,11 @@
 
 [shraddha-kulkarni.com](https://shraddha-kulkarni.com)
 
-i work in product. i like building things that are useful, occasionally weird, and sometimes both.
+get in loser, we are learning how to code :)
 
-this is where i keep the experiments.
+i like building things that are useful, occasionally weird, and sometimes both
+
+this is where i keep the experiments
 
 **things i've built**
 
