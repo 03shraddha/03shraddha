@@ -25,5 +25,6 @@ this is where i keep the experiments.
 | [personal-website](https://github.com/03shraddha/personal-website) | this very website · [shraddha-kulkarni.com](https://shraddha-kulkarni.com) | JavaScript |
 | [resume-screener](https://github.com/03shraddha/resume-screener) | two-pass AI pipeline that screens a batch of resumes, ranks candidates comparatively, and exports a colour-coded Excel report | Python |
 | [resource-vs-gdp](https://github.com/03shraddha/resource-vs-gdp) | how resource extraction shapes GDP/capita over 60 years — 28 countries, interactive chart · [live](https://03shraddha.github.io/resource-vs-gdp/) | JavaScript |
+| [yt-short](https://github.com/03shraddha/yt-short) | ai pipeline that generates youtube shorts — script, voiceover, b-roll, captions, and upload from a single news prompt | Python |
 
 &nbsp;
