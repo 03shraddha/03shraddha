@@ -22,7 +22,7 @@ this is where i keep the experiments
 | [resource-vs-gdp](https://github.com/03shraddha/resource-vs-gdp) | what happens to a country's economy after it strikes oil, diamonds, or copper? does it get rich? does it stay rich? does it get worse? · [live](https://03shraddha.github.io/resource-vs-gdp/) | JavaScript |
 | [read-aloud-chrome](https://github.com/03shraddha/read-aloud-chrome) | free Chrome extension that reads articles aloud using your browser's built-in text-to-speech | JavaScript |
 | [rag-project](https://github.com/03shraddha/rag-project) | RAG implementation using Recursive Chunking, MiniLM Embeddings, and FAISS | Python |
-| [reel-generator](https://github.com/03shraddha/reel-generator) | ai pipeline that generates youtube shorts — script, voiceover, b-roll, captions, and upload from a single news prompt | Python |
+| [reel-generator](https://github.com/03shraddha/reel-generator) | fully autonomous pipeline → discovers topics → writes script → generates images → creates voiceover → captions with whisper → outputs ready-to-upload | Python |
 | [pm-skills](https://github.com/03shraddha/pm-skills) | claude code skills built for pms — competitive analysis, product discovery, and more | — |
 | [personal-website](https://github.com/03shraddha/personal-website) | this very website · [shraddha-kulkarni.com](https://shraddha-kulkarni.com) | JavaScript |
 | [resume-screener](https://github.com/03shraddha/resume-screener) | ranks candidates comparatively, generates tailored interview questions for each, and exports a colour-coded excel report | Python |
