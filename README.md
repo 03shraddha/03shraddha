@@ -4,8 +4,6 @@
 
 get in loser, we are learning how to code :)
 
-i like building things that are useful, occasionally weird, and sometimes both
-
 this is where i keep the experiments
 
 **things i've built**
