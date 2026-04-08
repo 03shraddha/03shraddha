@@ -14,7 +14,7 @@ this is where i keep the experiments
 | [civic-dashboard](https://github.com/03shraddha/civic-dashboard) | interactive map of BBMP complaint data — how many were made, resolved, and still pending · [live](https://civic-dashboard-kappa.vercel.app/) | TypeScript |
 | [blr-metro](https://github.com/03shraddha/blr-metro) | explore Bengaluru metro ridership patterns across every hour of the day · [live](https://03shraddha.github.io/blr-metro/) | JavaScript |
 | [now-reading](https://github.com/03shraddha/now-reading) | share what you're reading & discover what others are reading around the world · [live](https://reading-links-fed4e.web.app/) | TypeScript |
-| [failed-payments](https://github.com/03shraddha/failed-payments) | recovers failed Razorpay payments — fires SMS, email, and a Slack alert with a fresh payment link the moment a payment fails | Python |
+| [failed-payments](https://github.com/03shraddha/failed-payments) | payment fails → customer instantly gets an SMS, email, and a new payment link to retry | Python |
 | [newspaper-ocr-sarvam](https://github.com/03shraddha/newspaper-ocr-sarvam) | western LLMs weren’t built for india - this app lets you read any newspaper in any language · [live](https://samachar-scan.vercel.app) | TypeScript |
 | [my-handwriting-font](https://github.com/03shraddha/my-handwriting-font) | turned my handwriting into a font — download it or follow the instructions to make your own | — |
 | [website-blocker](https://github.com/03shraddha/website-blocker) | blocks distracting sites — to unblock, you must type what you should be doing instead (minimum 6 words). no shortcuts. | HTML/JS |
