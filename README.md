@@ -4,8 +4,6 @@
 
 get in loser, we are learning how to code :)
 
-this is where i keep the experiments
-
 **things i've built**
 
 | name | what it is | stack |
