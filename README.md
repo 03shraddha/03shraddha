@@ -2,7 +2,7 @@
 
 [shraddha-kulkarni.com](https://shraddha-kulkarni.com)
 
-funny how younger me didn’t like coding and now i’ve built all this :)
+funny how i used to be scared of code and now i’ve built all this :)
 
 **things i've built**
 
