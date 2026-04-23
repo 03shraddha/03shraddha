@@ -2,7 +2,7 @@
 
 [shraddha-kulkarni.com](https://shraddha-kulkarni.com)
 
-get in loser, we are learning how to code :)
+funny how younger me didn’t like coding and now i’ve built all this :)
 
 **things i've built**
 
