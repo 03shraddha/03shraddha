@@ -12,7 +12,7 @@ funny how i used to be scared of code and now i’ve built all this :)
 | [civic-dashboard](https://github.com/03shraddha/civic-dashboard) | interactive map of BBMP complaint data: how many were made, resolved, and still pending · [live](https://civic-dashboard-kappa.vercel.app/) | TypeScript |
 | [blr-metro](https://github.com/03shraddha/blr-metro) | explore Bengaluru metro ridership patterns across every hour of the day · [live](https://03shraddha.github.io/blr-metro/) | JavaScript |
 | [razorpay-docs-mcp](https://github.com/03shraddha/razorpay_docs_mcp/tree/master) | MCP server that indexes Razorpay's official docs, so AI coding agents look up correct API behaviour instead of hallucinating | Python |
-| [now-reading](https://github.com/03shraddha/now-reading) | share what you're reading & discover what others are reading around the world · [live](https://reading-links-fed4e.web.app/) | TypeScript |
+| [now-reading](https://github.com/03shraddha/now-reading) | share what you're reading & discover what others are reading around the world · [live](https://globalmap-two.vercel.app/) | TypeScript |
 | [failed-payments](https://github.com/03shraddha/failed-payments) | most failed payments never retry; this catches them and sends a fresh link before the customer moves on | Python |
 | [newspaper-ocr-sarvam](https://github.com/03shraddha/newspaper-ocr-sarvam) | western LLMs weren't built for india - this app lets you read any newspaper in any language · [live](https://samachar-scan.vercel.app) | TypeScript |
 | [my-handwriting-font](https://github.com/03shraddha/my-handwriting-font) | turned my handwriting into a font; download it or follow the instructions to make your own | — |
