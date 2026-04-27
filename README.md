@@ -11,6 +11,7 @@ funny how i used to be scared of code and now i’ve built all this :)
 | [indian-duolingo](https://github.com/03shraddha/indian-duolingo) | duolingo only supports one Indian language, so I built one for six · [live](https://indian-duolingo-1.onrender.com/) | TypeScript |
 | [civic-dashboard](https://github.com/03shraddha/civic-dashboard) | interactive map of BBMP complaint data: how many were made, resolved, and still pending · [live](https://civic-dashboard-kappa.vercel.app/) | TypeScript |
 | [blr-metro](https://github.com/03shraddha/blr-metro) | explore Bengaluru metro ridership patterns across every hour of the day · [live](https://03shraddha.github.io/blr-metro/) | JavaScript |
+| [video-analysis](https://github.com/03shraddha/video-analysis) | multi-agent system using OpenAI's vision + audio APIs that watches a live camera feed and catches people illegally dumping garbage in real time · [demo](https://github.com/03shraddha/video-analysis) | Python |
 | [razorpay-docs-mcp](https://github.com/03shraddha/razorpay_docs_mcp/tree/master) | MCP server that indexes Razorpay's official docs, so AI coding agents look up correct API behaviour instead of hallucinating | Python |
 | [now-reading](https://github.com/03shraddha/now-reading) | share what you're reading & discover what others are reading around the world · [live](https://globalmap-two.vercel.app/) | TypeScript |
 | [failed-payments](https://github.com/03shraddha/failed-payments) | most failed payments never retry; this catches them and sends a fresh link before the customer moves on | Python |
