@@ -13,6 +13,7 @@ funny how i used to be scared of code and now i've built all this :)
 | [civic-dashboard](https://github.com/03shraddha/civic-dashboard) | interactive map of BBMP complaint data: how many were made, resolved, and still pending · [live](https://civic-dashboard-kappa.vercel.app/) | TypeScript |
 | [blr-metro](https://github.com/03shraddha/blr-metro) | explore Bengaluru metro ridership patterns across every hour of the day · [live](https://03shraddha.github.io/blr-metro/) | JavaScript |
 | [voice-shop-demo](https://github.com/03shraddha/voice-shop-demo) | voice-control AI shopping end-to-end using GPT Realtime 1.5. browse, select & checkout entirely by speaking, without clicking anything on your screen · [demo](https://drive.google.com/file/d/1-1PIIJCxwlpmgAGb0Vu0FSlSJmimOLAi/view) | JavaScript |
+| [voice2circuit](https://github.com/03shraddha/voice2circuit) | describe a circuit out loud and it draws the schematic. speaking components into existence | Python |
 | [video-analysis](https://github.com/03shraddha/video-analysis) | multi-agent system using OpenAI's vision + audio APIs that watches a live camera feed and catches people illegally dumping garbage in real time · [demo](https://github.com/03shraddha/video-analysis) | Python |
 | [razorpay-docs-mcp](https://github.com/03shraddha/razorpay_docs_mcp/tree/master) | MCP server that indexes Razorpay's official docs, so AI coding agents look up correct API behaviour instead of hallucinating | Python |
 | [now-reading](https://github.com/03shraddha/now-reading) | share what you're reading & discover what others are reading around the world · [live](https://globalmap-two.vercel.app/) | TypeScript |
@@ -29,3 +30,4 @@ funny how i used to be scared of code and now i've built all this :)
 | [claude-md-file-and-security-md-file-](https://github.com/03shraddha/claude-md-file-and-security-md-file-) | CLAUDE.md + Security.md templates for working with Claude Code | — |
 
 &nbsp;
+
