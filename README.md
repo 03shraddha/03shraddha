@@ -8,7 +8,7 @@ funny how i used to be scared of code and now i've built all this :)
 
 | name | what it is | stack |
 |------|-----------|-------|
-| [autoresearch](https://github.com/03shraddha/autoresearch) | running karpathy's auto-research loop on my personal website's page load time. each experiment makes one small change to the html/css and reverts it if the load score does not improve | Python |
+| [autoresearch](https://github.com/03shraddha/autoresearch) | karpathy's autoresearch for my personal website's page load time. runs 100 experiments in a loop, each making one small change and keeping it only if the score improves | Python |
 | [indian-duolingo](https://github.com/03shraddha/indian-duolingo) | duolingo only supports one Indian language, so I built one for six · [live](https://indian-duolingo-1.onrender.com/) | TypeScript |
 | [reel-generator](https://github.com/03shraddha/reel-generator) | fully autonomous pipeline → discovers topics → writes script → generates images → creates voiceover → captions with whisper → outputs ready-to-upload | Python |
 | [civic-dashboard](https://github.com/03shraddha/civic-dashboard) | interactive map of BBMP complaint data: how many were made, resolved, and still pending · [live](https://civic-dashboard-kappa.vercel.app/) | TypeScript |
