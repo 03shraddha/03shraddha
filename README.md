@@ -7,6 +7,7 @@
 
 | name | what it is | stack |
 |------|-----------|-------|
+| [snapmark](https://github.com/03shraddha/snapmark) | mac menu bar app for screenshots. press ctrl+shift+a, drag over an area, add text, arrows, blur, and step numbers, then press enter to copy. one swift file, no network, no files on disk · [demo](https://github.com/03shraddha/snapmark/blob/main/demo.mp4) | Swift |
 | [autoresearch](https://github.com/03shraddha/autoresearch) | karpathy's autoresearch for my personal website's page load time. runs 100 experiments in a loop, each making one small change and keeping it only if the score improves | Python |
 | [indian-duolingo](https://github.com/03shraddha/indian-duolingo) | duolingo only supports one Indian language, so I built one for six · [live](https://indian-duolingo-1.onrender.com/) | TypeScript |
 | [reel-generator](https://github.com/03shraddha/reel-generator) | fully autonomous pipeline → discovers topics → writes script → generates images → creates voiceover → captions with whisper → outputs ready-to-upload · [demo](https://www.linkedin.com/posts/shraddha-kulkarni-6abb5a188_i-am-finally-running-andrej-karpathys-auto-research-share-7461423114128814080-b_dR/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACxPIGMBaVcf0x2cAU6p3NLyQvLIdmL7rJg)| Python |
